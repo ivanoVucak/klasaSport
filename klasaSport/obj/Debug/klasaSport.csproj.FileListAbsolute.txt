@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\bin\Debug\klasaSport.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\bin\Debug\klasaSport.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\bin\Debug\klasaSport.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\obj\Debug\klasaSport.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\obj\Debug\klasaSport.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\obj\Debug\klasaSport.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\obj\Debug\klasaSport.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\klasaSport\obj\Debug\klasaSport.pdb
